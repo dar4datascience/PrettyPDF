@@ -1,5 +1,7 @@
 ---
 title: "Pretty PDFs with Quarto"
+subtitle: "Subtitle"
+author: "Example"
 format: PrettyPDF-pdf
 ---
 
